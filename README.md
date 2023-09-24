@@ -1,2 +1,2 @@
-# ar-tag-cv
-This repo should be for the CV model that will detect AR tags
+# rover-cv
+This repo should contain everything CV for the rover (e.g. object detection, ar tag identification, etc.)
